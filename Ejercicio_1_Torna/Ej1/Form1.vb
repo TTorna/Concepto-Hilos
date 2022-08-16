@@ -38,8 +38,5 @@ Public Class form1
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        'posición del formulario
-        'Me.Top = 220
-        ' Me.Left = 220
     End Sub
 End Class
